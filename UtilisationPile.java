@@ -1,7 +1,5 @@
 package Pile;
 
-import Pile.PileDinamique;
-
 public class UtilisationPile {
 
 

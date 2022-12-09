@@ -28,7 +28,7 @@ public class FileStatique {
     }
 
     private int gestionIndex(int index){
-        if(!(index-1 == -1)){
+        if((index-1 != -1)){
             return index-1;
         }else{
             return 3;

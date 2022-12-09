@@ -6,7 +6,7 @@ public class PileDinamique {
     private int taille;
 
 
-    public void PileDinamique(){
+    public PileDinamique(){
         taille=0;
         Pile = new int[taille];
     }
